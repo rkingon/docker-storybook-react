@@ -1,0 +1,21 @@
+{
+  "name": "docker-storybook-react",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "storybook": "start-storybook",
+    "build": "build-storybook"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.5.0",
+    "@storybook/addon-actions": "^5.1.9",
+    "@storybook/addon-links": "^5.1.9",
+    "@storybook/addons": "^5.1.9",
+    "@storybook/react": "^5.2.0-alpha.36",
+    "babel-loader": "^8.0.6"
+  }
+}
